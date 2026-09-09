@@ -6,10 +6,10 @@ Sistema desenvolvido com **Arduino Uno** para realizar a leitura da luminosidade
 
 O projeto demonstra, na prática, a utilização de **sensores, entradas analógicas e controle de saída** em uma aplicação simples de automação.
 
-![Projeto Arduino com LDR e LED](arduino-ldr.png)
+ 
 
 ---
-
+ 
 ## 📝 Descrição do Projeto
 
 O projeto utiliza um **Arduino** para monitorar a intensidade luminosa do ambiente através de um **sensor LDR**.
@@ -30,7 +30,10 @@ A proposta é apresentar de forma prática como um sensor pode ser utilizado par
 | **Jumpers Macho-Macho** |     Vários | Conexão entre os componentes |
 
 ---
+ ## 📸 Circuito em Funcionamento
+
  
+  <img src="https://github.com/robertodaniel01/arduino./blob/48391d088a902ead67e894156a031fea49f53c59/IMG_4157.jpg" alt="Circuito LDR com Arduino" width="200">
 
 ## 💻 Código — Entrada do Sensor LDR
 
